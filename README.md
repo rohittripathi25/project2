@@ -1,4 +1,4 @@
 # new  project
 
 This project was created from local system.
-Created by Rohit Tripathi
+Created by Rohit Tripathi.
